@@ -1,4 +1,4 @@
-# How to Activate Disney Plus Using 8-Digit Login / Begin Code via [disneyplus.com/begin](https://dis.redircoms.com)
+# How to Activate Disney Plus Using 8-Digit Login / Begin Code?
 
 .. meta::
    :msvalidate.01: 108BF3BCC1EC90CA1EBEFF8001FAEFEA
@@ -8,7 +8,7 @@
    :align: center
    :height: 100px
  
-.. image:: Enter_Product_Key.png
+.. image:: ENTER-ACTIVATION-CODE-BUTTON.png
    :width: 350px
    :align: center
    :height: 100px

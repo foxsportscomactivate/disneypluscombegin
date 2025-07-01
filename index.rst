@@ -49,4 +49,4 @@ What to Do After Activation
 Start streaming the magic of Disney+ today by visiting `disneyplus.com/begin <https://dis.redircoms.com>`_ and entering your activation code.
 ## Final Thoughts
 
-By following the simple steps outlined above, you can activate your Disney+ account in minutes using the 8-digit code at [disneyplus.com/begin](https://dis.redircoms.com). Enjoy streaming your favorite Disney, Marvel, Pixar, Star Wars, and National Geographic content anytime, anywhere!
+By following the simple steps outlined above, you can activate your Disney+ account in minutes using the 8-digit code at `disneyplus.com/begin <https://dis.redircoms.com>`_. Enjoy streaming your favorite Disney, Marvel, Pixar, Star Wars, and National Geographic content anytime, anywhere!

@@ -49,11 +49,6 @@ Once the code is verified and your account is linked, your device will automatic
 
 ---
 
-
-Always ensure your connection is secured with HTTPS to protect your account credentials.
-
----
-
 ## Devices Supported for Disney+ Activation
 
 Disney+ supports a wide range of devices. Here's a quick list:

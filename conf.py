@@ -16,7 +16,7 @@ import sys
 
 # -- Project information -----------------------------------------------------
 
-project = 'HP Smart'
+project = 'Begintv'
 
 
 # The full version, including alpha/beta/rc tags
